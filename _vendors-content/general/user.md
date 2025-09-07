@@ -4,7 +4,7 @@ manufacturer:
 ---
 
 ### Android 6+
-
+ZTE 
 Always check the following setting:
 
 - on older devices:<br>
